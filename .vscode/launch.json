@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ListatodoApplication<listatodo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.minhalista.listatodo.ListatodoApplication",
+            "projectName": "listatodo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
